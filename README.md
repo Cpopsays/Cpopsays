@@ -1,17 +1,37 @@
 ### Hi there 👋
-I'm learning how to code. 
 
-<!--
-**Cpopsays/Cpopsays** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### - 🔭 I’m currently working on ...
 
-Here are some ideas to get you started:
+By May 1, 2021
+[] Write something in Apex to automate app testing and post it on GitHub
+[] Try the RAD Women Alumni Monthly Code Challenge
+[] Finish review of the Women Code Heroes Articles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+By May 30, 2021
+[] Automation Superbadge
+[] Platform App Builder Certification 
+[]Copado Admin Certification 
+
+By September 1, 2021
+[] Deadlift 225lbs for 5 sets of 5 reps
+[] Finish the Apex Hours Salesforce Development Playlist
+[] Full-Time Salesforce Job
+
+
+By Dec 1, 2021
+[] Apex Superbadge 
+[] Platform Developer 1 Certification 
+
+
+### - 🌱 I’m currently learning ...
+
+[] What is DevOps 
+[] How GitHub is used in DevOps
+[] How to code (Apex, Python)
+
+### - 👯 I’m looking to collaborate on ...
+
+[] My first collaborative project on GitHub
+
+
+
