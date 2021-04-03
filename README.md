@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### - 🔭 I’m currently working on ...
+### 🔭 I’m currently working on ...
 - Complete the #100DaysofCode Challenge
 
 ## May 1, 2021 
