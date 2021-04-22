@@ -2,8 +2,6 @@
 
 ### 🔭 I’m currently working on ...
 
-## April 30, 2021
-- Write something in Apex to automate app testing and post it on GitHub
 ## May 30, 2021 
 - Platform App Builder Certification
 - Copado Admin Certification 
