@@ -4,15 +4,15 @@
 
 ## May 30, 2021 
 - Platform App Builder Certification
-- Copado Admin Certification 
 ## June 30, 2021
-- Complete #100DaysofCode Challenge
+- Copado Admin Certification 
 ## July 30, 2021
-- Full time Salesforce job
+- Complete #100DaysofCode Challenge
 ## August 30, 2021
-- Bench 115lbs for 5 reps
+- Bench 115lbs for 1 rep with commands
+- Deadlift 225lbs for 1+ reps
 ## September 30, 2021 
-- Deadlift 225lbs for 5 reps
+- Complete one of the RAD Women monthly challenges 
 ## October 30, 2021
 - Apex Superbadge
 ## November 30, 2021
